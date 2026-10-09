@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0595-big-countries) |
+| [1757-recyclable-and-low-fat-products](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
 | ------- |
