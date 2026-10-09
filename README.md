@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
