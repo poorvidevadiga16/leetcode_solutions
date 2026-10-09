@@ -31,4 +31,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
