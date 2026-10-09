@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -60,10 +61,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
