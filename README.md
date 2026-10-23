@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -84,6 +85,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
 | ------- |
