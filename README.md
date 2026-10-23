@@ -47,6 +47,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -188,6 +190,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
