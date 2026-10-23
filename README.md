@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | ------- |
 | [0136-single-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -143,4 +147,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
