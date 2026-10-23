@@ -183,6 +183,7 @@
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0443-string-compression) |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -193,4 +194,24 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
