@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +103,25 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
