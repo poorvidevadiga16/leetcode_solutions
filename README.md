@@ -22,6 +22,7 @@
 | [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0037-sudoku-solver](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Algorithm X
 |  |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3612-process-string-with-special-operations-i](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Rolling Hash
 |  |
@@ -232,4 +235,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
