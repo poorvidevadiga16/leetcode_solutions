@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
