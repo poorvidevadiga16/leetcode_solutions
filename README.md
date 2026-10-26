@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
