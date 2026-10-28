@@ -94,6 +94,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
@@ -238,6 +240,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -246,10 +249,12 @@
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 ## Memoization
 |  |
@@ -283,4 +288,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
