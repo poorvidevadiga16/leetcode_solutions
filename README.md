@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -125,6 +126,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
