@@ -233,6 +233,7 @@
 | [0680-valid-palindrome-ii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2315-count-asterisks](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2315-count-asterisks) |
 | [3612-process-string-with-special-operations-i](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
