@@ -28,6 +28,7 @@
 | [0287-find-the-duplicate-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
