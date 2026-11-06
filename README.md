@@ -151,6 +151,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [1392-longest-happy-prefix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1392-longest-happy-prefix) |
 | [1678-goal-parser-interpretation](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2315-count-asterisks](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2315-count-asterisks) |
 | [3612-process-string-with-special-operations-i](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
