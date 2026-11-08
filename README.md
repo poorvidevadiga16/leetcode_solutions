@@ -116,6 +116,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0032-longest-valid-parentheses](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2315-count-asterisks) |
 | [3612-process-string-with-special-operations-i](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
