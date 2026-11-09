@@ -235,6 +235,7 @@
 | [0005-longest-palindromic-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
