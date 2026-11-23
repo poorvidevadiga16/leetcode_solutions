@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -250,6 +252,7 @@
 | [0242-valid-anagram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
