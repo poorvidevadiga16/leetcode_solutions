@@ -34,6 +34,7 @@
 | [1528-shuffle-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -258,6 +259,7 @@
 | [1678-goal-parser-interpretation](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1816-truncate-sentence](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2315-count-asterisks) |
