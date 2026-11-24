@@ -97,6 +97,7 @@
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
