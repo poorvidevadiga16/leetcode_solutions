@@ -96,6 +96,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -141,6 +142,7 @@
 | [0005-longest-palindromic-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -311,6 +313,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
