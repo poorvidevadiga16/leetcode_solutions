@@ -47,6 +47,7 @@
 | [0073-set-matrix-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -254,6 +255,7 @@
 | [0125-valid-palindrome](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
