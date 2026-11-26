@@ -57,6 +57,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
@@ -279,6 +280,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1816-truncate-sentence](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2315-count-asterisks](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2315-count-asterisks) |
