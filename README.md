@@ -38,6 +38,7 @@
 | [1816-truncate-sentence](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [2596-check-knight-tour-configuration](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3193-count-the-number-of-inversions](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3193-count-the-number-of-inversions) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3193-count-the-number-of-inversions](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/3193-count-the-number-of-inversions) |
 ## Bit Manipulation
 |  |
 | ------- |
