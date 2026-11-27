@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0268-missing-number) |
