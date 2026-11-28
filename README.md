@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@
 | [0015-3sum](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0125-valid-palindrome) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,12 +249,14 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poorvidevadiga16/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
